@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## ER Diagram
+![image](https://github.com/prackode/assignment/assets/72190853/bdb0b49d-d81f-482e-af23-3715a638d04d)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
